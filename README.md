@@ -4,3 +4,5 @@
 2)```docker-compose up --build```
 
 ![Build Status](https://github.com/Deites/dataset/actions/workflows/django.yml/badge.svg?branch=master)
+
+![Build Status](https://github.com/Deites/dataset/actions/workflows/python-app.yml/badge.svg?branch=master)
